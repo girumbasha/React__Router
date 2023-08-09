@@ -1,0 +1,17 @@
+.contact__container{
+    background: rgb(132, 171, 186);
+    height: 110vh;
+}
+.contact__submit_btn {
+    background: rgb(0, 3, 3);
+    color: white;
+    border: none;
+    height: 24px;
+    margin:25px;
+}
+.contact__submit_btn:hover{
+ background: rgb(50, 49, 49);
+}
+input{
+    margin: 8px;
+}
